@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreasSzautner
 - Previous experience... 8th grade CompSci and a couple on online courses.
 - Reasons for taking this class... Sounded like an interesting class and I want to be better at programming.
-- Other interests... Soccer and running track.
+- Other interests... Soccer, track and skiing.
 - Goals for the class... Learning how to write and read basic code.
 
 <!---
